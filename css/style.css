@@ -36,6 +36,9 @@ body {
 .carousel-inner {
   height: 400px;
 }
+.carousel-caption-shadow {
+  text-shadow: 1px 1px black;
+}
 .carousel-caption {
   bottom: 30% !important;
 }
