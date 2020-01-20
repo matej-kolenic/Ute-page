@@ -68,7 +68,7 @@ body {
 
 .info {
   position: relative;
-  min-height: 200px;
+  min-height: 250px;
   background: url('../img/narrative.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
