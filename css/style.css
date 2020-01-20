@@ -34,13 +34,13 @@ body {
   margin-right: -15px;
 }
 .carousel-inner {
-  height: 400px;
+  height: 450px;
 }
 .carousel-caption-shadow {
   text-shadow: 1px 1px black;
 }
 .carousel-caption {
-  bottom: 30% !important;
+  bottom: 15% !important;
 }
 .carousel-inner .item {
   height: 100%;
@@ -68,7 +68,7 @@ body {
 
 .info {
   position: relative;
-  min-height: 250px;
+  min-height: 320px;
   background: url('../img/narrative.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
