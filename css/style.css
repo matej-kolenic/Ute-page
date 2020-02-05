@@ -34,13 +34,13 @@ body {
   margin-right: -15px;
 }
 .carousel-inner {
-  height: 400px;
+  height: 450px;
 }
 .carousel-caption-shadow {
   text-shadow: 1px 1px black;
 }
 .carousel-caption {
-  bottom: 30% !important;
+  bottom: 15% !important;
 }
 .carousel-inner .item {
   height: 100%;
@@ -62,19 +62,19 @@ body {
 }
 
 .carousel-image-3 {
-  background: url('../img/image3.jpg');
+  background: url('../img/black.jpg');
   background-size: cover;
 }
 
 .info {
   position: relative;
-  min-height: 200px;
-  background: url('../img/desk.jpg');
+  min-height: 320px;
+  background: url('../img/narrative.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  color: #fff;
+  color: black;
 }
 
 .light-overlay {
